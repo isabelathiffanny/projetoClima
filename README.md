@@ -7,7 +7,6 @@
 
 - **Linguagem:** Java
 - **Gerenciador de dependências:** Maven
-- **IDE:** IntelliJ IDEA
 
 ---
 # Descrição
