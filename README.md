@@ -16,7 +16,7 @@ O projeto consiste de 4 PROGRAMAS DIFERENTES que processam dados climáticos de 
 Durante a execução, são mostradas as temperaturas média, mínima e máxima de cada dia para cada uma das cidades.
 Foram requisitadas as temperaturas de 15 dias, contadas a partir de "hoje" (Dia 01).
 
-O que diferencia um programa do outro é a QUANTIDADE DE THREADS.
+O que diferencia um programa do outro é a quantidade threads
 
 **Objetivo:** comparar o desempenho entre os programas, calculando a média dos tempos de execução (depois de 10 rodadas).
 
