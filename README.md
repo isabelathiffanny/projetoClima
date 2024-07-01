@@ -12,7 +12,7 @@
 ---
 # Descrição
 
-O projeto consiste de 4 PROGRAMAS DIFERENTES que processam dados climáticos de 27 capitais brasileiras por meio de requisições HTTP à Weather Forecast API (https://open-meteo.com/en/docs).
+O projeto consiste de 4 PROGRAMAS DIFERENTES que processam dados climáticos de 27 capitais brasileiras por meio de requisições HTTP da API open meteo (https://open-meteo.com/en/docs).
 
 Durante a execução, são mostradas as temperaturas média, mínima e máxima de cada dia para cada uma das cidades.
 Foram requisitadas as temperaturas de 15 dias, contadas a partir de "hoje" (Dia 01).
